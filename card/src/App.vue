@@ -16,9 +16,9 @@ export default {
     return {
       houseData: {
         name: 'Beautiful Villa',
-        location: 'City, Country',
-        type: 'Villa',
-        price: '$500,000'
+        location: 'Nairobi',
+        type: 'Bungalow',
+        price: '500,000ksh'
       }
     };
   }
