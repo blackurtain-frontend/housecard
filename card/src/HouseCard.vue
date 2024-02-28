@@ -32,12 +32,18 @@
   background-color: brown;
   text-align: center;
   display: inline-block;
-  margin: 10px; 
+  margin: 10px;
+  height: 300px; 
+  width: 80%;
   }
-  
+  .photo{
+    clip: auto;
+    height: 50%;
+    width: 100%;
+    margin-bottom: 20px;
+  }
   .photo img {
-    max-width: 50%;
-    height: auto;
+    width: 100%;
     size: 30px;
   }
   
