@@ -41,6 +41,7 @@
     height: 50%;
     width: 100%;
     margin-bottom: 20px;
+    border-radius: 15px;
   }
   .photo img {
     width: 100%;
