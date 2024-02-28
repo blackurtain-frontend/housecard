@@ -24,18 +24,21 @@
   }
   </script>
   
-  <style scoped>
+  <style>
 .card {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 3px black solid;
   border-radius: 15px;
   background-color: brown;
   text-align: center;
+  display: inline-block;
+  margin: 10px; 
   }
   
   .photo img {
     max-width: 50%;
     height: auto;
+    size: 30px;
   }
   
   .details {

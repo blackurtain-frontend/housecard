@@ -15,7 +15,7 @@ export default {
   data() {
     return {
       houseData: {
-        name: 'Beautiful Villa',
+        name: 'Cosy Bungalow',
         location: 'Nairobi',
         type: 'Bungalow',
         price: '500,000ksh'
