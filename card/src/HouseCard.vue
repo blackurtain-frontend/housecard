@@ -25,12 +25,12 @@
   </script>
   
   <style scoped>
-  .card {
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    display: inline-block;
-    width:fit-content; 
-    box-shadow:20px;
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 3px black solid;
+  border-radius: 15px;
+  background-color: brown;
+  text-align: center;
   }
   
   .photo img {
